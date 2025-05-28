@@ -10,6 +10,7 @@ A full-stack web application for booking tours, including:
 
 ## 🖼️ UI Overview
 
+- Im mainly doing on backend so front end is kinda 80% vibe code xD
 - Simple and responsive interface
 - Separate UI for Users and Admins
 - Clean and organized layout
