@@ -8,6 +8,14 @@ A full-stack web application for booking tours, including:
 
 ---
 
+## 🖼️ UI Overview
+
+- Simple and responsive interface
+- Separate UI for Users and Admins
+- Clean and organized layout
+
+---
+
 ## 🚀 Key Features
 
 ### 👥 User
@@ -24,6 +32,7 @@ A full-stack web application for booking tours, including:
 - View and update bookings
 
 ---
+
 
 ## 🧱 Project Structure
 
@@ -126,22 +135,4 @@ npm run dev
 - `POST /payments/purchase/{paymentId}`
 - `POST /momo/create-payment`
 
----
 
-## 🖼️ UI Overview
-
-- Simple and responsive interface
-- Separate UI for Users and Admins
-- Clean and organized layout
-
----
-
-## 👨‍💻 Developed By
-
-- 🚀 [Your Name] – Full-stack Developer
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
